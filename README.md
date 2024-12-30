@@ -16,13 +16,18 @@ This repository contains a Streamlit-based app for real-time image classificatio
    - Streamlit provides an intuitive web interface for interaction.
 
 ## Repository Structure
+# Project Directory Structure
 
+```plaintext
 ImageClassificationApp/
 ├── app.py                  # Main Streamlit app
 ├── models/                 # Folder to store model zip files and extracted contents
 │   ├── sample_model.zip    # Example model zip file (with .h5 and labels.txt inside)
 ├── README.md               # Instructions and project details
 └── requirements.txt        # Python dependencies
+```
+
+
 
 ## Prerequisites
 
